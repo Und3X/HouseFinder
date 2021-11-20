@@ -1,6 +1,7 @@
 # HouseFinder v0.2.0
 
 ### [Скачать](https://github.com/Und3X/HouseFinder/releases) (Последняя версия)
+#### [Поддержать автора рублем](https://yoomoney.ru/to/4100116150755944)
 ![HouseFinder](https://i.imgur.com/J6Z54ij.png)
 ## Зависимости (установить перед запуском скрипта)
 - [SAMP 0.3.7 R1](http://files.sa-mp.com/sa-mp-0.3.7-install.exe)
